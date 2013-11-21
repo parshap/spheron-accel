@@ -17,5 +17,8 @@
     "orbotix"
   ],
   "author": "Parsha Pourkhomami",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "dependencies": {
+    "through": "~2.3.4"
+  }
 }
