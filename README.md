@@ -5,7 +5,7 @@ module.
 
 Note that this module uses the *Set Data Streaming* command, which will
 overwrite any previous calls and any future calls will stop the
-accelerometer data stream;
+accelerometer data stream.
 
 ## Example
 
