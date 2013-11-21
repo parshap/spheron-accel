@@ -1,0 +1,21 @@
+{
+  "name": "spheron-accel",
+  "version": "0.0.0",
+  "description": "Get accelerometer data from Sphero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:parshap/spheron-accel"
+  },
+  "keywords": [
+    "sphero",
+    "spheron",
+    "accelerometer",
+    "orbotix"
+  ],
+  "author": "Parsha Pourkhomami",
+  "license": "Public Domain"
+}
