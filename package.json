@@ -1,6 +1,6 @@
 {
   "name": "spheron-accel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get accelerometer data from Sphero",
   "main": "index.js",
   "scripts": {
